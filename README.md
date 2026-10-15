@@ -134,9 +134,8 @@ indian-railways-analytics-dashboard/
 3. If prompted, update the data source path.
 4. Refresh the data and interact with the available charts and filters.
 
-## Dashboard Preview
 
-Add a screenshot of your completed Power BI dashboard here.
+
 
 ```markdown
 ![Indian Railways Analytics Dashboard](screenshots/dashboard_preview.png)
